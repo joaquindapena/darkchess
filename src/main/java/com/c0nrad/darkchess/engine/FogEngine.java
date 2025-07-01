@@ -220,11 +220,6 @@ public class FogEngine {
                         possibleMoves.add(upTwo);
                     }
                 } catch (InvalidPositionException ex) {}
-
-                // try {
-                //     Position right = new Position(p.x + 1, p.y + 1 );
-                //     possibleMoves.add(right);
-                // } catch (InvalidPositionException ex) {}
             }  
         }
 
