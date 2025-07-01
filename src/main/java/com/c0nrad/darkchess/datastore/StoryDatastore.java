@@ -44,7 +44,7 @@ public class StoryDatastore {
 
         String[] layout ={
             "    K   ", 
-            "WHITE_PAWN_ROW",
+            WHITE_PAWN_ROW,
             "        ",
             "        ",
             "        ",
@@ -93,7 +93,7 @@ public class StoryDatastore {
 
         String[] layout3 ={
             "RNBQKBNR", 
-            "WHITE_PAWN_ROW",
+            WHITE_PAWN_ROW,
             "        ",
             "        ",
             "        ",
@@ -117,8 +117,8 @@ public class StoryDatastore {
 
         String[] layout4 ={
             "PPPPKPPP", 
-            "WHITE_PAWN_ROW",
-            "WHITE_PAWN_ROW",
+            WHITE_PAWN_ROW,
+            WHITE_PAWN_ROW,
             "        ",
             "        ",
             "        ",
@@ -139,7 +139,7 @@ public class StoryDatastore {
 
         String[] layout5 ={
             "RNBQKBNR", 
-            "WHITE_PAWN_ROW",
+            WHITE_PAWN_ROW,
             "        ",
             "        ",
             "        ",
